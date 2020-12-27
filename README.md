@@ -1,1 +1,1 @@
-# infinite-scroll-blog
+# Infinite Scroll Blog
